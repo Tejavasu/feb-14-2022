@@ -1,0 +1,7 @@
+#sum of n numbers
+a=1
+b=2
+c=3
+d=4
+sum=a+b+c+d
+print("the sum of digits is :",sum)
